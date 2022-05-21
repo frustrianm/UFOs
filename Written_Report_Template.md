@@ -1,23 +1,16 @@
-# Kickstarting with Excel
+# UFO Sighting with JavaScript - FRM's Tec Data Bootcamp Challenge #11
 
-## Overview of Project
-
+## Overview of the Analysis
 ### Purpose
 
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
-
 ## Results
+### Description of the search
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+## Summary
+### Main drawback
+At first glance, this HTML file helps us to
 
-- What can you conclude about the Outcomes based on Goals?
+### Recommendation for further improvement 1
 
-- What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+### Recommendation for further improvement 2
